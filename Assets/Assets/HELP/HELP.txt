@@ -1,0 +1,40 @@
+Nom des listes Traduction :
+
+
+ActiveUi
+
+ActiveDialoguesFixes
+
+ActivesDialoguesRandom
+
+ActiveTuto
+
+ActiveUiImages
+
+ActiveUiImagesRandom
+
+
+
+All Inputs (Add P1/P2 à la fin de chaque) :
+
+MovePilotHorizontal		0
+MovePilotVertical		1
+PilotUpDownArrow		2
+PilotLeftRightArrow		3
+PilotA				4
+PilotB				5
+PilotX				6
+PilotY				7
+
+MoveCopHorizontal		0
+MoveCopVertical			1
+CopLeftRightArrow		2
+CopUpDownArrow			3
+CopSwitchTarget			4
+PacificCop			5
+AgressiveCop			6
+CopShoot			7
+
+ControllerMenuA
+ControllerMenuB
+ChooseMenu
